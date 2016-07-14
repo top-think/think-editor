@@ -1,0 +1,17 @@
+{
+    "name": "topthink/think-editor",
+    "description": "ThinkPHP5 编辑器 TagLib",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "刘志淳",
+            "email": "chun@engineer.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "think\\template\\taglib\\": "src"
+        }
+    }
+}
